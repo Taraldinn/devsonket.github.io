@@ -45,6 +45,10 @@
             "definition": "কন্টেইনার ক্লাস",
             "code": "container"
           },
+                      {
+            "definition": "ডিভাইস width: 100%; ,
+            "code": "None "
+          },
           {
             "definition": "ডিভাইস min-width: 640px",
             "code": "sm: "
@@ -60,6 +64,10 @@
           {
             "definition": "ডিভাইস min-width: 1280px",
             "code": "xl: "
+          },
+                      {
+            "definition": "ডিভাইস max-width: 1536px;",
+            "code": "2xl: "
           },
           {
             "definition": "বক্স সাইজিং বর্ডার",
